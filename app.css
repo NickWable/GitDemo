@@ -3,11 +3,11 @@ body {
 justify-content: center;
 align-items: center;
 height: 100vh;
-background-color: orangered;
+background-color: rgb(44, 12, 111);
 }
 
 h1 {
-    font-size: 12rem;
+    font-size: 16rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
